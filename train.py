@@ -17,8 +17,8 @@ train_dataset = JSONLDataset(
     image_directory_path=f"Data/train",
 )
 valid_dataset = JSONLDataset(
-    jsonl_file_path=f"DATA/val/annotations.jsonl",
-    image_directory_path=f"DATA/val",
+    jsonl_file_path=f"Data/val/annotations.jsonl",
+    image_directory_path=f"Data/val",
 )
 
 
