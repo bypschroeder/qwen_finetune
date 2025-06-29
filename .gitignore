@@ -186,3 +186,10 @@ pyvenv.cfg
 pip-selfcheck.json
 
 # End of https://www.toptal.com/developers/gitignore/api/venv,python
+
+Data/
+lightning_logs/
+output/
+qwen2.5-3b-instruct-ft/
+test/
+evaluation/inference_results*

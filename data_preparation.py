@@ -3,7 +3,6 @@ import os
 import glob
 import random
 import shutil
-import base64
 
 OUTPUT_DIR = "Data"
 TRAIN_DIR = os.path.join(OUTPUT_DIR, "train")
